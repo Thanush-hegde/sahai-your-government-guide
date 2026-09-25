@@ -1,24 +1,81 @@
 # 🏛️ SAHAI – Your Government Guide
 
-**SAHAI** is a digital inclusion platform designed to make government services easier to understand and access. It helps users discover relevant government schemes and services, understand eligibility requirements, find the documents they need, and access official application links — all in one simple and user-friendly platform.
+**SAHAI** is a digital inclusion platform designed to make government services easier to understand and access. It helps users discover government schemes, check eligibility, understand required documents, and access official application links — all through a simple and user-friendly interface.
 
-### 🎯 Problem
+## 🎯 Problem
 
-Government schemes and services can be difficult to navigate, especially for elderly people and users who may struggle with complicated websites, unclear requirements, or finding the correct information.
+Government schemes and services can often be difficult to find and understand. Elderly users and people who are not comfortable navigating complex websites may struggle to identify the right scheme, eligibility criteria, required documents, and official application process.
 
-### 💡 Our Solution
+## 💡 Solution
 
-SAHAI simplifies the process by providing:
+SAHAI brings this information together in one accessible platform, helping users:
 
-* 🔍 Easy discovery of government schemes and services
-* 📋 Clear eligibility requirements
-* 📄 Required document checklists
-* 🔗 Direct links to official government portals
-* 👴 A simple, accessible interface designed with elderly users in mind
-* 🌐 Centralized information instead of searching across multiple websites
+* 🔍 Discover government schemes and services
+* ✅ Check eligibility requirements
+* 📄 View required documents
+* 🔗 Access official government application links
+* 🧭 Navigate information through a simple interface
+* 👴 Make digital government services more accessible to elderly users
 
-### 🚀 Goal
+## 🛠️ Tech Stack
 
-Our goal is to bridge the gap between **people and government services** by making important information more accessible, understandable, and easier to navigate.
+### Frontend
 
-**SAHAI — Making Government Services Simpler, One Step at a Time.**
+* ⚛️ React
+* 🔷 TypeScript
+* ⚡ Vite
+* 🎨 Tailwind CSS
+
+### UI & Components
+
+* 🧩 Component-based UI architecture
+* 🎨 Tailwind CSS
+* 📱 Responsive Design
+
+### Development Tools
+
+* 💻 Visual Studio Code
+* 🔧 Git & GitHub
+* 📦 npm
+* 🥟 Bun
+
+### Configuration & Build
+
+* ⚙️ ESLint
+* 📦 PostCSS
+* 🔧 Vite
+
+### Deployment
+
+* 🚀 Vercel
+
+## ✨ Key Features
+
+* Government scheme discovery
+* Scheme details and descriptions
+* Eligibility information
+* Required document checklist
+* Official government links
+* Simple and accessible UI
+* Mobile-friendly design
+
+## 🎯 Project Goal
+
+The goal of SAHAI is to **bridge the digital gap between citizens and government services** by making important information easier to find, understand, and access.
+
+## 👥 Target Users
+
+* 👴 Elderly citizens
+* 👨‍👩‍👧 General citizens
+* 📱 Users with limited digital literacy
+* 🏘️ People who have difficulty navigating government portals
+
+## 🏆 Hackathon Project
+
+SAHAI was developed as a **hackathon project** under the theme of **Digital Inclusion & Public Access**, focusing on improving accessibility to essential government information.
+
+---
+
+### 🇮🇳 SAHAI
+
+**Making Government Services Simpler, More Accessible, and Easier to Navigate.**
