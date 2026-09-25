@@ -1,73 +1,24 @@
-# Welcome to your Lovable project
+# 🏛️ SAHAI – Your Government Guide
 
-## Project info
+**SAHAI** is a digital inclusion platform designed to make government services easier to understand and access. It helps users discover relevant government schemes and services, understand eligibility requirements, find the documents they need, and access official application links — all in one simple and user-friendly platform.
 
-**URL**: https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID
+### 🎯 Problem
 
-## How can I edit this code?
+Government schemes and services can be difficult to navigate, especially for elderly people and users who may struggle with complicated websites, unclear requirements, or finding the correct information.
 
-There are several ways of editing your application.
+### 💡 Our Solution
 
-**Use Lovable**
+SAHAI simplifies the process by providing:
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID) and start prompting.
+* 🔍 Easy discovery of government schemes and services
+* 📋 Clear eligibility requirements
+* 📄 Required document checklists
+* 🔗 Direct links to official government portals
+* 👴 A simple, accessible interface designed with elderly users in mind
+* 🌐 Centralized information instead of searching across multiple websites
 
-Changes made via Lovable will be committed automatically to this repo.
+### 🚀 Goal
 
-**Use your preferred IDE**
+Our goal is to bridge the gap between **people and government services** by making important information more accessible, understandable, and easier to navigate.
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
-
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
-
-Follow these steps:
-
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
-
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
-
-# Step 3: Install the necessary dependencies.
-npm i
-
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
-
-**Edit a file directly in GitHub**
-
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
-
-**Use GitHub Codespaces**
-
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
-
-## What technologies are used for this project?
-
-This project is built with:
-
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
-
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
+**SAHAI — Making Government Services Simpler, One Step at a Time.**
